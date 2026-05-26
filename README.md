@@ -128,7 +128,6 @@ uvicorn
 ## 👤 Author
 
 **Aman Pratap Singh**  
-[GitHub](https://github.com/Developer007-web) · [LinkedIn](https://linkedin.com/in/aman-pratap-singh) · [Portfolio](https://developer007-web.github.io)
 
 ---
 
